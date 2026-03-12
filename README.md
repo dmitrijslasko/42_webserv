@@ -1,4 +1,4 @@
-4*This project has been created as part of the 42 Core Curriculum by inikulin, lshapkin, and dmlasko*
+*This project has been created as part of the 42 Core Curriculum by inikulin, lshapkin, and dmlasko*
 
 # webserv
 ![webserv index page - demo image 1](schema/demo1.png)
