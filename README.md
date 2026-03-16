@@ -1,12 +1,12 @@
 *This project has been created as part of the 42 Core Curriculum by inikulin, lshapkin, and dmlasko*
 
 # webserv
-![webserv index page - demo image 1](schema/demo1.png)
-![webserv demo image 2](schema/demo2.png)
-![webserv demo image 3](schema/demo3.png)
-![webserv demo image 4](schema/demo4.png)
-![webserv demo image 5](schema/demo5.png)
-![webserv demo image 6](schema/demo6.png)
+![webserv index page - demo image 1](demo/demo1.png)
+![webserv demo image 2](demo/demo2.png)
+![webserv demo image 3](demo/demo3.png)
+![webserv demo image 4](demo/demo4.png)
+![webserv demo image 5](demo/demo5.png)
+![webserv demo image 6](demo/demo6.png)
 ## Description
 
 **webserv** is a HTTP/1.0 web server written in **C++** from scratch.  
